@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portafolioivonne/static/css/main.de3c8322.css",
-    "main.js": "/portafolioivonne/static/js/main.a0b65025.js",
+    "main.css": "/portafolioivonne/static/css/main.1dcfcea1.css",
+    "main.js": "/portafolioivonne/static/js/main.42637a39.js",
     "index.html": "/portafolioivonne/index.html",
-    "main.de3c8322.css.map": "/portafolioivonne/static/css/main.de3c8322.css.map",
-    "main.a0b65025.js.map": "/portafolioivonne/static/js/main.a0b65025.js.map"
+    "main.1dcfcea1.css.map": "/portafolioivonne/static/css/main.1dcfcea1.css.map",
+    "main.42637a39.js.map": "/portafolioivonne/static/js/main.42637a39.js.map"
   },
   "entrypoints": [
-    "static/css/main.de3c8322.css",
-    "static/js/main.a0b65025.js"
+    "static/css/main.1dcfcea1.css",
+    "static/js/main.42637a39.js"
   ]
 }
