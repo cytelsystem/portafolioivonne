@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portafolioivonne/static/css/main.434d85ca.css",
+    "main.js": "/portafolioivonne/static/js/main.a0b65025.js",
+    "index.html": "/portafolioivonne/index.html",
+    "main.434d85ca.css.map": "/portafolioivonne/static/css/main.434d85ca.css.map",
+    "main.a0b65025.js.map": "/portafolioivonne/static/js/main.a0b65025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.a0b65025.js"
+  ]
+}
